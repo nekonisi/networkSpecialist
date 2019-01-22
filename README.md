@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## 概要
 
-You can use the [editor on GitHub](https://github.com/nekonisi/networkSpecialist/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [ネットワークスペシャリスト合格教本][Amazonリンク]の内容をまとめる。
+- 平成31年度秋季試験対策
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nekonisi/networkSpecialist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Amazonリンク]: https://www.amazon.co.jp/%E5%B9%B3%E6%88%9030%E5%B9%B4%E5%BA%A6-%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88%E5%90%88%E6%A0%BC%E6%95%99%E6%9C%AC-%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E6%8A%80%E8%A1%93%E8%80%85%E8%A9%A6%E9%A8%93-%E5%B2%A1%E5%B6%8B-%E8%A3%95%E5%8F%B2/dp/4774193313
